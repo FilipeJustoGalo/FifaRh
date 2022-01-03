@@ -8,8 +8,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace CampeonatoFIFaR.Migrations
 {
-    [DbContext(typeof(PlayerContext))]
-    [Migration("20211222203313_inicial")]
+    [DbContext(typeof(Context))]
+    [Migration("20211228181506_inicial")]
     partial class inicial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

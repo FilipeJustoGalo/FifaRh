@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FilipeJusto\\Desktop\\MeusProgramas C#\\CampeonatoFIFaR\\CampeonatoFIFaR\\CampeonatoFIFaR.csproj": {}
+    "C:\\Users\\user\\Desktop\\Meus Programas em C#\\FifaRh\\CampeonatoFIFaR\\CampeonatoFIFaR.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FilipeJusto\\Desktop\\MeusProgramas C#\\CampeonatoFIFaR\\CampeonatoFIFaR\\CampeonatoFIFaR.csproj": {
+    "C:\\Users\\user\\Desktop\\Meus Programas em C#\\FifaRh\\CampeonatoFIFaR\\CampeonatoFIFaR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FilipeJusto\\Desktop\\MeusProgramas C#\\CampeonatoFIFaR\\CampeonatoFIFaR\\CampeonatoFIFaR.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Meus Programas em C#\\FifaRh\\CampeonatoFIFaR\\CampeonatoFIFaR.csproj",
         "projectName": "CampeonatoFIFaR",
-        "projectPath": "C:\\Users\\FilipeJusto\\Desktop\\MeusProgramas C#\\CampeonatoFIFaR\\CampeonatoFIFaR\\CampeonatoFIFaR.csproj",
-        "packagesPath": "C:\\Users\\FilipeJusto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FilipeJusto\\Desktop\\MeusProgramas C#\\CampeonatoFIFaR\\CampeonatoFIFaR\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\Meus Programas em C#\\FifaRh\\CampeonatoFIFaR\\CampeonatoFIFaR.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Meus Programas em C#\\FifaRh\\CampeonatoFIFaR\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -19,7 +19,7 @@
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\FilipeJusto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
